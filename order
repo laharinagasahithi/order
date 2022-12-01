@@ -1,0 +1,4 @@
+The ORDER BY command is used to sort the result set in ascending or descending order.
+
+example:
+SELECT * FROM emp ORDER BY deptno;
